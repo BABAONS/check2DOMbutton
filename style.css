@@ -1,0 +1,25 @@
+.container{
+text-align: center;
+text-decoration: yellow;
+position: absolute;
+padding: 40px 30px ;
+}
+
+
+#change-color-btn{
+height: 50%;  
+position: absolute; 
+top: 90%;
+left: 60%;
+width: 7rem;
+font-size: large;
+padding: 20px;
+margin-left: 130px;
+}
+.text{
+text-align: center;
+text-decoration: underline;
+font-size: xx-large;
+margin-left: 500px;
+
+}
