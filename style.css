@@ -1,3 +1,11 @@
+/* .navbar-brand {
+  color: green !important;
+} */
+
+* {
+    margin: 0;
+    padding: 0;
+  }
 .container{
 text-align: center;
 text-decoration: yellow;
@@ -7,7 +15,7 @@ padding: 40px 30px ;
 
 
 #change-color-btn{
-height: 50%;  
+height: 60%;  
 position: absolute; 
 top: 90%;
 left: 60%;
